@@ -1,0 +1,9 @@
+add input relative rotation script
+6 cube sides
+
+Dont forget the vuforia key:
+Aammj6z/////AAAAGSloUMyZikENuW3i603pRiUeKFHGL7l+C0+FJ0drw+sZSqWKU4hUBft4JicwaouS22jKAXTvSa+Jc90K+5SPS5xx8raMMy3K931iTv6JvfrHdl0fe1Edtx4UTI/qp8Oe1G4uHp5F9PhVfoxZz3wrlzUfvvQ+y9P953+kStwbOS1V3v01ktxZHiRv6DgZIVqFTuT81VRYCKd4zwouDPKGqQs7E2T7XE/o8fyDdcmjxOm6KmMQSQi11kk9Ll9kG76QRIYeLKF6LkIdcwATGM0CN+9GErIG+OyhIjPNQsPwA/P8JlAkKKhUxTfz4gNijQ2x9/rCKLfQrsxQ1W1F4zUuAzzc8945+iYuALz2wZHy4l6R
+
+- Forgot to add gaze caster on AR camera object in boombox scene, it was causing button not to be detected by ray
+ 	Also, add same layer for gaze caster and the UI image layer (Add button and camera gaze mask to UI layer)
+- Changed the hover, down and normal color to white and opacity to 1 for resolving hide issue of button

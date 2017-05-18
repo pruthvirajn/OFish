@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CE6EE694-8288-CF0B-5B57-E204F27ECC73}") = "OFish", "Assembly-CSharp.csproj", "{BC220729-24A3-2968-F160-94F235F7ADCA}"
+EndProject
+Project("{CE6EE694-8288-CF0B-5B57-E204F27ECC73}") = "OFish", "Assembly-CSharp-Editor.csproj", "{CBEE7F84-4531-E669-415B-5522FBE2E171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC220729-24A3-2968-F160-94F235F7ADCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC220729-24A3-2968-F160-94F235F7ADCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC220729-24A3-2968-F160-94F235F7ADCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC220729-24A3-2968-F160-94F235F7ADCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBEE7F84-4531-E669-415B-5522FBE2E171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEE7F84-4531-E669-415B-5522FBE2E171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEE7F84-4531-E669-415B-5522FBE2E171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEE7F84-4531-E669-415B-5522FBE2E171}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
